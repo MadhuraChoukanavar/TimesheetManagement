@@ -1,0 +1,18 @@
+package com.feuji.accountprojectservice.config;
+
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
+
+@Configuration
+@EnableJpaRepositories(basePackages = {""})
+public class JPAConfig {
+
+//@Configuration 
+//@EnableJpaRepositories(basePackages = { "org.crnts.ticketingservice" })
+//@EnableTransactionManagement
+//public class JPAConfig {
+//
+//}
+
+}
