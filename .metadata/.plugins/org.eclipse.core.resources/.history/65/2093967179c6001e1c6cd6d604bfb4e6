@@ -1,0 +1,9 @@
+package com.feuji.employeeservice.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.feuji.employeeservice.bean.UserBean;
+
+public interface UserLoginRepo extends JpaRepository<UserBean, Integer> {
+
+}

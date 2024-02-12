@@ -1,0 +1,12 @@
+package com.feuji.accountprojectservice.bean;
+
+import lombok.Builder;
+
+
+public class AccountResourceMappingEntity {
+	private long MappingId;
+	private long ProjectId;
+	
+	
+
+}

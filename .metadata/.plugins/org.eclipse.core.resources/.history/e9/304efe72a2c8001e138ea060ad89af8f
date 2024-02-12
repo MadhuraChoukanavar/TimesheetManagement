@@ -1,0 +1,5 @@
+package com.feuji.employeeservice.serviceimpl;
+
+public class UserLoginValidationImpl {
+
+}

@@ -1,0 +1,5 @@
+package com.feuji.employeeservice.service;
+
+public interface UserLoginValidation {
+
+}
