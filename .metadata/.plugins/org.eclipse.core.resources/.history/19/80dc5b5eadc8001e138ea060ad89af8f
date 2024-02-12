@@ -1,0 +1,11 @@
+package com.feuji.employeeservice.service;
+
+import org.springframework.stereotype.Service;
+
+import com.feuji.employeeservice.bean.UserBean;
+
+
+public interface UserLoginValidation {
+	public ResponseEntity<String> userValidation(UserBean userBean);
+
+}

@@ -1,0 +1,9 @@
+package com.feuji.employeeservice.service;
+
+import org.springframework.stereotype.Service;
+
+
+public interface UserLoginValidation {
+	void loginvalidation(String userName,String password);
+
+}

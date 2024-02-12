@@ -1,0 +1,10 @@
+package com.feuji.employeeservice.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import jakarta.persistence.Column;
+
+@RestController
+public class UserLoginController {
+
+}

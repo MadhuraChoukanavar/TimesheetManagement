@@ -1,0 +1,5 @@
+package com.feuji.accountprojectservice.bean;
+
+public class AccountResourceMapping {
+
+}
